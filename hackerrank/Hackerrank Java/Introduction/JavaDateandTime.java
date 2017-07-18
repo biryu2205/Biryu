@@ -1,4 +1,4 @@
-/**
+package Introduction; /**
  * Created by thien on 15/07/2017.
  */
 
@@ -8,7 +8,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 //Java Date and Time
-public class Java12 {
+public class JavaDateandTime {
 
     public static void main(String[] args) {
         SimpleDateFormat formatter = new SimpleDateFormat("MM.dd.yyyy");

@@ -1,14 +1,11 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 
-//Java If-Else
-
+//Java Stdin and Stdout II
 import java.util.Scanner;
 
-
-public class Java3 {
-
+public class JavaStdinandStdoutII {
 
     public static void main(String[] args) {
 
@@ -35,6 +32,3 @@ public class Java3 {
 
 
 }
-
-
-

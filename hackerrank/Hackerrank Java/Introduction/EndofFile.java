@@ -1,11 +1,11 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 //Java End-of-file
 
 import java.util.Scanner;
 
-public class Java9 {
+public class EndofFile {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

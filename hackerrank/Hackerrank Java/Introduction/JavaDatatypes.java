@@ -1,11 +1,11 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 //Java Datatypes
 
 import java.util.Scanner;
 
-class Java8 {
+class JavaDatatypes {
     public static void main(String[] argh) {
 
 

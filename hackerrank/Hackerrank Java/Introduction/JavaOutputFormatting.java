@@ -1,10 +1,10 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 //Java Output Formatting
 import java.util.Scanner;
 
-public class Java5 {
+public class JavaOutputFormatting {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,7 +12,6 @@ public class Java5 {
         for (int i = 0; i < 3; i++) {
             String s1 = sc.next();
             int x = sc.nextInt();
-            //Complete this line
             System.out.printf("%-15s%03d%n", s1, x);
         }
         System.out.println("================================");

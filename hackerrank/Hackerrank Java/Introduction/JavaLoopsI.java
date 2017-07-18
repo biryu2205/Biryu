@@ -1,11 +1,11 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 //Java Loops I
 
 import java.util.Scanner;
 
-public class Java6 {
+public class JavaLoopsI {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

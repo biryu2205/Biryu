@@ -1,11 +1,11 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 //Java Static Initializer Block
 import java.util.*;
 
 
-public class Java10 {
+public class JavaStaticInitializerBlock {
     static int B,H;
     static boolean flag;
 

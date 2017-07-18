@@ -1,11 +1,11 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 //Java Loops II
 
 import java.util.Scanner;
 
-class Java7 {
+class JavaLoopsII {
     public static void main(String[] argh) {
         Scanner in = new Scanner(System.in);
         int test = in.nextInt();

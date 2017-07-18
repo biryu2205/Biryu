@@ -1,10 +1,10 @@
-/**
+package Introduction; /**
  * Created by thien on 14/07/2017.
  */
 // Java Stdin and Stdout I
 import java.util.Scanner;
 
-public class Java2 {
+public class JavaStdinandStdoutI {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
