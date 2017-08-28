@@ -8,7 +8,7 @@ public class MergeSort implements SortAlgorithm {
   static int[] helper;
   static int number;
 
-  public static void sort(int[] values) {
+  public void sort(int[] values) {
     numbers = values;
     number = values.length;
     helper = new int[number];
