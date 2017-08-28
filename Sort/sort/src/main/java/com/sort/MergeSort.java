@@ -3,7 +3,7 @@ package com.sort;
 /**
  * Created by Administrator on 28/08/2017.
  */
-public class MergeSort {
+public class MergeSort implements SortAlgorithm {
   static int[] numbers;
   static int[] helper;
   static int number;
