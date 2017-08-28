@@ -3,8 +3,10 @@ package com.sort;
 /**
  * Created by Administrator on 26/08/2017.
  */
-public class BubbleSort {
-  public static void sort(int[] arr) {
+public class BubbleSort implements SortAlgorithm {
+  @Override
+  public void sort(int[] arr) {
+    System.out.println("BubbleSort.sort");
     int size = arr.length;
     int temp;
     for (int i = 0; i < size; i++) {
@@ -18,3 +20,4 @@ public class BubbleSort {
     }
   }
 }
+
