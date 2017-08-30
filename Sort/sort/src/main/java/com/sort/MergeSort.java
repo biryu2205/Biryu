@@ -3,11 +3,14 @@ package com.sort;
 /**
  * Created by Administrator on 28/08/2017.
  */
+// DRY: don't repeat yourself
 public class MergeSort implements SortAlgorithm {
-  static int[] numbers;
-  static int[] helper;
-  static int number;
+  // TODO remove those fields and make this class stateless.
+  int[] numbers;
+  int[] helper;
+  int number;
 
+  @Override
   public void sort(int[] values) {
     numbers = values;
     number = values.length;
@@ -15,11 +18,11 @@ public class MergeSort implements SortAlgorithm {
     mergesort(0, number - 1);
   }
 
-  public static void mergesort(int low, int high) {
+  public void mergesort(int low, int high) {
     // check if low is smaller than high, if not then the array is sorted
     if (low < high) {
       // Get the index of the element which is in the middle
-      int middle = low + (high - low) / 2;
+      int middle = low + (high - low) / 2;// dang su dung teamviewer tren chrome :D
       // Sort the left side of the array
       mergesort(low, middle);
       // Sort the right side of the array
@@ -29,7 +32,7 @@ public class MergeSort implements SortAlgorithm {
     }
   }
 
-  public static  void sort(int low, int middle, int high) {
+  public void sort(int low, int middle, int high) {
 
     // Copy both parts into the helper array
     for (int i = low; i <= high; i++) {
