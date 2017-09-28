@@ -20,3 +20,17 @@ Task:Remove current SSH key and creat a new one
     - https://www.cyberciti.biz/faq/linux-unix-bsd-deleting-an-ssh-key/
     - https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
     - https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+
+## 2017-09-28 09:04 PM
+
+Task:Learn to use tmux,manager tmux's plugins
+
+- Read link:
+    - https://github.com/tmux-plugins/tpm
+    - https://github.com/tmux-plugins/tmux-sensible
+    - https://kipalog.com/posts/Nghich-tmux
+- Understand that:
+    - How to install tmux's plugin
+    - How to uninstall tmux's plugin
+    - Some ways to use Plugin (some useful comands with tmux)
+    
