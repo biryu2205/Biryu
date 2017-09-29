@@ -45,3 +45,7 @@ Task:Learn to use tmux
     - How to sharing Terminal Sessions With Tmux
     - How to use tmux better
     
+## 2017-09-29 18:17 PM
+Task:Exercises on Hackerrank
+String Anagram
+- https://www.hackerrank.com/challenges/java-anagrams/problem
