@@ -34,3 +34,14 @@ Task:Learn to use tmux,manager tmux's plugins
     - How to uninstall tmux's plugin
     - Some ways to use Plugin (some useful comands with tmux)
     
+## 2017-09-29 14:52 PM
+
+Task:Learn to use tmux 
+
+- Read link:
+    - http://tmuxp.readthedocs.io/en/latest/about_tmux.html
+    - https://www.howtoforge.com/sharing-terminal-sessions-with-tmux-and-screen
+- Understand that:
+    - How to sharing Terminal Sessions With Tmux
+    - How to use tmux better
+    
