@@ -49,3 +49,8 @@ Task:Learn to use tmux
 Task:Exercises on Hackerrank
 String Anagram
 - https://www.hackerrank.com/challenges/java-anagrams/problem
+
+## 2017-09-29 18:17 PM
+Task:Exercises on Hackerrank
+String Token
+- https://www.hackerrank.com/challenges/java-string-tokens/problem
