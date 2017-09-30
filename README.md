@@ -59,3 +59,7 @@ Task:Exercises on Hackerrank
 String Pattern Syntax Checker
 Reading:
 - https://www.tutorialspoint.com/java/java_regular_expressions.htm
+
+## 2017-09-30 15:00 PM
+Task:Exercises on Hackerrank
+String Pattern Syntax Checker
