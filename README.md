@@ -63,3 +63,7 @@ Reading:
 ## 2017-09-30 15:00 PM
 Task:Exercises on Hackerrank
 String Pattern Syntax Checker
+## 2017-09-30 18:03 PM
+Task:Exercises on Hackerrank
+Java Regex
+- https://www.hackerrank.com/challenges/java-regex/problem
