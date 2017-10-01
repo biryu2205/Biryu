@@ -67,3 +67,7 @@ String Pattern Syntax Checker
 Task:Exercises on Hackerrank
 Java Regex
 - https://www.hackerrank.com/challenges/java-regex/problem
+
+## 2017-10-1 15:00 PM
+Task: Practise command on terminal 
+-https://medium.com/@doanhtu/c%C3%A1c-l%E1%BB%87nh-command-d%C3%A0nh-cho-ng%C6%B0%E1%BB%9Di-m%E1%BB%9Bi-d%C3%B9ng-linux-acc102323bec
