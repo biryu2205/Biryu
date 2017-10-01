@@ -72,12 +72,17 @@ Java Regex
 Task: Practise command on terminal 
 - https://medium.com/@doanhtu/c%C3%A1c-l%E1%BB%87nh-command-d%C3%A0nh-cho-ng%C6%B0%E1%BB%9Di-m%E1%BB%9Bi-d%C3%B9ng-linux-acc102323bec
 
-## 2017-10-1 20:18 Pm
+## 2017-10-1 20:18 PM
 Task : Exercises on Hackerrank
 Java Inheritance I
 - https://www.hackerrank.com/challenges/java-inheritance-1/problem
 
-## 2017-10-1 22:52 Pm
+## 2017-10-1 22:52 PM
 Task : Exercises on Hackerrank
 Java Inheritance II
 - https://www.hackerrank.com/challenges/java-inheritance-2/problem
+
+## 2017-10-1 23:05 PM
+Task : Exercises on Hackerrank
+Java Abstract Class
+- https://www.hackerrank.com/challenges/java-abstract-class/problem
