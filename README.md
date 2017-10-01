@@ -76,3 +76,8 @@ Task: Practise command on terminal
 Task : Exercises on Hackerrank
 Java Inheritance I
 - https://www.hackerrank.com/challenges/java-inheritance-1/problem
+
+## 2017-10-1 22:52 Pm
+Task : Exercises on Hackerrank
+Java Inheritance II
+- https://www.hackerrank.com/challenges/java-inheritance-2/problem
