@@ -108,7 +108,12 @@ Task : Exercises on Hackerrank
 Java Instanceof keyword
 - https://www.hackerrank.com/challenges/java-instanceof-keyword/problem
 
-## 2017-10-2 23:11 PM
+## 2017-10-2 00:20 PM
 Task : Exercises on Hackerrank
 Java Iterator
 - https://www.hackerrank.com/challenges/java-iterator/problem
+
+## 2017-10-2 00:33 PM
+Task : Exercises on Hackerrank
+Tag Content Extractor
+- https://www.hackerrank.com/challenges/tag-content-extractor/problem
