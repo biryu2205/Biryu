@@ -90,10 +90,10 @@ Java Abstract Class
 ## 2017-10-2 09:57 AM
 Task : Exercises on Hackerrank
 Java Interface:
-    - https://www.hackerrank.com/challenges/java-interface/problem
-    - https://docs.oracle.com/javase/tutorial/java/concepts/interface.html
+- https://www.hackerrank.com/challenges/java-interface/problem
+- https://docs.oracle.com/javase/tutorial/java/concepts/interface.html
 
 ## 2017-10-2 11:39 AM
 Task : Exercises on Hackerrank
 Java Method Override:
-    - https://www.hackerrank.com/challenges/java-method-overriding/problem
+- https://www.hackerrank.com/challenges/java-method-overriding/problem
