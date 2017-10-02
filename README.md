@@ -117,3 +117,8 @@ Java Iterator
 Task : Exercises on Hackerrank
 Tag Content Extractor
 - https://www.hackerrank.com/challenges/tag-content-extractor/problem
+
+## 2017-10-2 1:13 PM
+Task : Exercises on Hackerrank
+Java Regex 2 - Duplicate Words
+- https://www.hackerrank.com/challenges/duplicate-word/problem
