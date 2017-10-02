@@ -86,3 +86,9 @@ Java Inheritance II
 Task : Exercises on Hackerrank
 Java Abstract Class
 - https://www.hackerrank.com/challenges/java-abstract-class/problem
+
+## 2017-10-2 09:57 PM
+Task : Exercises on Hackerrank
+Java Interface:
+https://www.hackerrank.com/challenges/java-interface/problem
+https://docs.oracle.com/javase/tutorial/java/concepts/interface.html
