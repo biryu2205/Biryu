@@ -132,3 +132,8 @@ Hackerrank Valid Username Regular Expression
 Task : Exercises on Hackerrank
 Java List
 - https://www.hackerrank.com/challenges/java-list/problem
+
+## 2017-10-2 1:55 Pm
+Task : Exercises on Hackerrank
+Java 1D Array
+- https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
