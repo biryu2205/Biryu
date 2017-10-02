@@ -102,3 +102,8 @@ Java Method Override:
 Task : Exercises on Hackerrank
 Java Method Overriding 2 (Super Keyword)
 - https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem
+
+## 2017-10-2 23:11 PM
+Task : Exercises on Hackerrank
+Java Instanceof keyword
+-https://www.hackerrank.com/challenges/java-instanceof-keyword/problem
