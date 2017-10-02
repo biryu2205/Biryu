@@ -127,3 +127,8 @@ Java Regex 2 - Duplicate Words
 Task : Exercises on Hackerrank
 Hackerrank Valid Username Regular Expression
 - https://www.hackerrank.com/challenges/valid-username-checker/problem
+
+## 2017-10-2 1:37 PM
+Task : Exercises on Hackerrank
+Java List
+- https://www.hackerrank.com/challenges/java-list/problem
