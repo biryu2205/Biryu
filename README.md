@@ -97,3 +97,8 @@ Java Interface:
 Task : Exercises on Hackerrank
 Java Method Override:
 - https://www.hackerrank.com/challenges/java-method-overriding/problem
+
+## 2017-10-2 14:00 PM
+Task : Exercises on Hackerrank
+Java Method Overriding 2 (Super Keyword)
+- https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem
