@@ -122,3 +122,8 @@ Tag Content Extractor
 Task : Exercises on Hackerrank
 Java Regex 2 - Duplicate Words
 - https://www.hackerrank.com/challenges/duplicate-word/problem
+
+## 2017-10-2 1:22 PM
+Task : Exercises on Hackerrank
+Hackerrank Valid Username Regular Expression
+- https://www.hackerrank.com/challenges/valid-username-checker/problem
