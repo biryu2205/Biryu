@@ -137,3 +137,7 @@ Java List
 Task : Exercises on Hackerrank
 Java 1D Array
 - https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
+## 2017-10-2 21:42 PM
+Task : Exercises on Hackerrank
+Java 2D Array 
+- https://www.hackerrank.com/challenges/java-2d-array/problem
