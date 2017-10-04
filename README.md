@@ -149,6 +149,18 @@ Java 1D Array II
 ## 2017-10-3 10:12 AM
 Task: Reading Exceptions on Oracle
 - https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
+
 ## 2017-10-3 10:58 AM
 Task: Reading Exceptions on Oracle
 - https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
+
+## 2017-10-3 14:02 PM
+Task Task : Exercises on Hackerrank
+Java Array List
+- https://www.hackerrank.com/challenges/java-arraylist/problem
+
+## 2017-10-3 14:02 PM
+Task Task : Exercises on Hackerrank
+Java Primality Test
+- https://www.hackerrank.com/challenges/java-primality-test/problem
+-
