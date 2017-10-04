@@ -145,3 +145,7 @@ Java 2D Array
 Task : Exercises on Hackerrank
 Java 1D Array II
 - https://www.hackerrank.com/challenges/java-1d-array/problem
+
+## 2017-10-3 10:12 AM
+Task: Reading Exceptions on Oracle
+- https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
