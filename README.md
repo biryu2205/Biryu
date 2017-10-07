@@ -177,5 +177,9 @@ Java BigDecimal
 ## 2017-10-07 21:22 PM
 Task : Exercises on Hackerrank
 Java Annotation 
-
 - https://www.hackerrank.com/challenges/java-annotations/problem
+
+## 2017-10-07 21:59  PM
+Task: Exercises on Hackerrank
+Java Simple Addition Varargs
+- https://www.hackerrank.com/challenges/simple-addition-varargs/problem
