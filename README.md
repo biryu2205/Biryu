@@ -215,4 +215,8 @@ Java PriorityQueue
 - https://www.hackerrank.com/challenges/java-priority-queue/problem
 reading document
 - https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html
-- 
+
+## 2017-10-08 00:04 PM
+Task : Exercises on Hackerrank
+Prime Checker
+- https://www.hackerrank.com/challenges/prime-checker/problem
