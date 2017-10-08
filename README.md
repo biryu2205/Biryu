@@ -199,12 +199,20 @@ Task : Exercises on Hackerrank
 Java Sort 
 - https://www.hackerrank.com/challenges/java-sort/problem
 
-## 2017-10-08 12:50 AM
+## 2017-10-08 12:50 P
 Task : Exercises on Hackerrank
 Java Deque
 - https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html
 
-## 2017-10-08 14:44 AM
+## 2017-10-08 14:44 PM
 Task : Exercises on Hackerrank
 Java Deque
 - https://www.hackerrank.com/challenges/java-dequeue/problem
+
+## 2017-10-08 18:44 PM
+Task : Exercises on Hackerrank
+Java PriorityQueue
+- https://www.hackerrank.com/challenges/java-priority-queue/problem
+reading document
+- https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html
+- 
