@@ -198,3 +198,8 @@ Valid Username Regular Expression
 Task : Exercises on Hackerrank
 Java Sort 
 - https://www.hackerrank.com/challenges/java-sort/problem
+
+## 2017-10-08 12:50 AM
+Task : Exercises on Hackerrank
+Java Deque
+https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html
