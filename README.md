@@ -183,3 +183,8 @@ Java Annotation
 Task: Exercises on Hackerrank
 Java Simple Addition Varargs
 - https://www.hackerrank.com/challenges/simple-addition-varargs/problem
+
+## 2017-10-08 10:00 AM
+Task: HackerNews
+Reading
+- https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
