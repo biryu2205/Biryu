@@ -193,3 +193,8 @@ Reading
 Task : Exercises on Hackerrank 
 Valid Username Regular Expression
 - https://www.hackerrank.com/challenges/valid-username-checker/problem
+
+## 2017-10-08 12:30 AM
+Task : Exercises on Hackerrank
+Java Sort 
+- https://www.hackerrank.com/challenges/java-sort/problem
