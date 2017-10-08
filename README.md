@@ -188,3 +188,8 @@ Java Simple Addition Varargs
 Task: HackerNews
 Reading
 - https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+
+## 2017-10-08 11:59 AM
+Task : Exercises on Hackerrank 
+Valid Username Regular Expression
+- https://www.hackerrank.com/challenges/valid-username-checker/problem
