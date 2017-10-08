@@ -202,4 +202,9 @@ Java Sort
 ## 2017-10-08 12:50 AM
 Task : Exercises on Hackerrank
 Java Deque
-https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html
+- https://docs.oracle.com/javase/7/docs/api/java/util/Deque.html
+
+## 2017-10-08 14:44 AM
+Task : Exercises on Hackerrank
+Java Deque
+- https://www.hackerrank.com/challenges/java-dequeue/problem
