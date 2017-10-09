@@ -230,3 +230,8 @@ Java Reflection - Attributes
 Task : Exercises on Hackerrank
 Java Factory Pattern
 - https://www.hackerrank.com/challenges/java-factory/problem
+
+## 2017-10-09 16:20 PM
+Task : Exercises on Hackerrank
+Java Can you Access
+- https://www.hackerrank.com/challenges/can-you-access/problem
