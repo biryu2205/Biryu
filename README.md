@@ -221,7 +221,12 @@ Task : Exercises on Hackerrank
 Prime Checker
 - https://www.hackerrank.com/challenges/prime-checker/problem
 
-## 2017-10-08 15:30 PM
+## 2017-10-09 15:30 PM
 Task : Exercises on Hackerrank
 Java Reflection - Attributes
 - https://www.hackerrank.com/challenges/java-reflection-attributes/problem
+
+## 2017-10-09 16:00 PM
+Task : Exercises on Hackerrank
+Java Factory Pattern
+- https://www.hackerrank.com/challenges/java-factory/problem
