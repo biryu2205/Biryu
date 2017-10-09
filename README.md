@@ -235,3 +235,8 @@ Java Factory Pattern
 Task : Exercises on Hackerrank 
 Java Can you Access
 - https://www.hackerrank.com/challenges/can-you-access/problem
+
+## 2017-10-09 17:20 PM
+Task : Exercises on Hackerrank 
+Hackerrank Java Singleton Pattern 
+- https://www.hackerrank.com/challenges/java-singleton/problem
