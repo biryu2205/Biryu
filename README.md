@@ -240,3 +240,10 @@ Java Can you Access
 Task : Exercises on Hackerrank 
 Hackerrank Java Singleton Pattern 
 - https://www.hackerrank.com/challenges/java-singleton/problem
+
+## 2017-10-09 20:58 PM
+Task : Exercises on Hackerrank 
+Java Visitor Pattern
+- https://www.hackerrank.com/challenges/java-vistor-pattern/problem
+Reading 
+- https://en.wikipedia.org/wiki/Visitor_pattern
