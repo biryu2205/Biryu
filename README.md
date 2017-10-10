@@ -247,3 +247,8 @@ Java Visitor Pattern
 - https://www.hackerrank.com/challenges/java-vistor-pattern/problem
 Reading 
 - https://en.wikipedia.org/wiki/Visitor_pattern
+
+## 2017-10-10 14:20 PM
+Task : Exercises on Hackerrank 
+Java Visitor Pattern
+- https://www.hackerrank.com/challenges/java-vistor-pattern/problem
