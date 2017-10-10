@@ -252,3 +252,8 @@ Reading
 Task : Exercises on Hackerrank 
 Java Visitor Pattern
 - https://www.hackerrank.com/challenges/java-vistor-pattern/problem
+
+## 2017-10-10 0:45 AM
+Task : Exercises on Hackerrank
+Covariant Return Types
+- https://www.hackerrank.com/challenges/java-covariance/problem
