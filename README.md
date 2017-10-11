@@ -260,7 +260,7 @@ Covariant Return Types
 
 ## 2017-10-11- 14:30 PM 
 Task : Exercises on Hackerrank
-- Java Lambda Expressions
+ Java Lambda Expressions
 - https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 - https://techmaster.vn/posts/26315/hoc-lap-trinh-java-online-tu-co-ban-den-nang-cao
 - https://www.hackerrank.com/challenges/java-lambda-expressions/problem
