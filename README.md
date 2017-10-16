@@ -264,3 +264,8 @@ Task : Exercises on Hackerrank
 - https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 - https://techmaster.vn/posts/26315/hoc-lap-trinh-java-online-tu-co-ban-den-nang-cao
 - https://www.hackerrank.com/challenges/java-lambda-expressions/problem
+
+## 2017-10-16 22:12 PM
+Task : Exercises on Hackerrank
+Java MD5 
+- https://www.hackerrank.com/challenges/java-md5/problem
