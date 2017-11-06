@@ -273,5 +273,8 @@ Java MD5
 ## 2017-11-06 10:00
 Task: install linux on laptop and pc
 Status :
-Laptop is up to date
-PC : get corruption,cant fix it now
+- Laptop is up to date
+- PC : get corruption,cant fix it now
+## 2017-11-06 11:00
+Task :install linux on PC
+Stastus : in progress 
