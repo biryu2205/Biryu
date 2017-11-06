@@ -269,3 +269,9 @@ Task : Exercises on Hackerrank
 Task : Exercises on Hackerrank
 Java MD5 
 - https://www.hackerrank.com/challenges/java-md5/problem
+
+## 2017-11-06 10:00
+Task: install linux on laptop and pc
+Status :
+Laptop is up to date
+PC : get corruption,cant fix it now
